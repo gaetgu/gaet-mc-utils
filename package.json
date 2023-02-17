@@ -1,6 +1,6 @@
 {
-  "name": "motion-canvas-component-library",
-  "version": "0.0.0",
+  "name": "@gaetgu/motion-canvas-utils",
+  "version": "0.0.1",
   "description": "",
   "scripts": {
     "prepare": "husky install",
